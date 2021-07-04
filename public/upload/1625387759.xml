@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees>
+	<row>
+		<month>4</month>
+		<year>2006</year>
+		<full_name>Eduardo Gulgowski</full_name>
+		<birthday>1974-05-17</birthday>
+		<department_id>9</department_id>
+		<position>PM</position>
+		<type>hourly payment</type>
+		<amount>7</amount>
+		<working_hours>163</working_hours>
+	</row>
+	<row>
+		<month>2</month>
+		<year>2007</year>
+		<full_name>Myrl Upton</full_name>
+		<birthday>2013-08-14</birthday>
+		<department_id>10</department_id>
+		<position>Team Lead</position>
+		<type>hourly payment</type>
+		<amount>9</amount>
+		<working_hours>106</working_hours>
+	</row>
+	<row>
+		<month>6</month>
+		<year>2013</year>
+		<full_name>Melissa McClure</full_name>
+		<birthday>1997-03-30</birthday>
+		<department_id>7</department_id>
+		<position>Team Lead</position>
+		<type>hourly payment</type>
+		<amount>7</amount>
+		<working_hours>176</working_hours>
+	</row>
+	<row>
+		<month>3</month>
+		<year>1982</year>
+		<full_name>Audreanne Lynch</full_name>
+		<birthday>1995-08-06</birthday>
+		<department_id>8</department_id>
+		<position>HR</position>
+		<type>rate</type>
+		<amount>1340</amount>
+		<working_hours>null</working_hours>
+	</row>
+	<row>
+		<month>2</month>
+		<year>2019</year>
+		<full_name>Brittany Berge</full_name>
+		<birthday>2009-11-23</birthday>
+		<department_id>7</department_id>
+		<position>PM</position>
+		<type>rate</type>
+		<amount>1990</amount>
+		<working_hours>null</working_hours>
+	</row>
+</employees>
