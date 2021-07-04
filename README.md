@@ -12,3 +12,5 @@
 - php artisan migrate
 - php ertisan db:seed
 - php artisan serve
+
+#### XML file example path: public/upload
