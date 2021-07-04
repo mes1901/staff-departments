@@ -4,6 +4,7 @@
 - cd staff-departments
 - composer install
 - npm install
+- npm run dev
 - create database
 - cp .env.example .env
 - set DB connection configuration in .env
